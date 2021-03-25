@@ -1,5 +1,5 @@
 # merge-demo
 This
 Is 
-Some
+Great
 Text
